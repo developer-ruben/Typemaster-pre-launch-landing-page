@@ -164,6 +164,7 @@ body {
   }
 
   &__text {
+    font-size: 1.8rem;
     margin-bottom: 4rem;
   }
 
@@ -405,6 +406,12 @@ body {
   }
   .header {
     margin: 2.3rem 0 6.4rem 0;
+  }
+
+  .hero {
+    &__text {
+      font-size: 1.6rem;
+    }
   }
 
   .compatible-section {
